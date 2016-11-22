@@ -39,7 +39,7 @@
                     <li class="named_tab" name="ordenes" id="ordenes"><a href="#contenido_Ordenes" ><font size="3"> Ordenes </font></a></li>
                     <li class="named_tab" id="productos"><a href="" ><font size="3"> Productos Pasteleria </font></a></li>
                     <li class="named_tab" id="cotizaciones"><a href="" ><font size="3"> Cotizaciones rorueba hooks</font></a></li>
-                    <li class="named_tab" id="notif"><a href="" ><font size="3"> Notificaciones vsegunda prueba hookles </font></a></li>
+                    <li class="named_tab" id="notif"><a href="" ><font size="3"> Notificaciones tercera prueba hookles </font></a></li>
                   </ul>
                 </div>
               </div>
