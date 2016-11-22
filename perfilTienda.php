@@ -21,7 +21,7 @@
   <body class=" sidebar_main_open sidebar_main_swipe" onload="inicializa(22.1510387,-100.9809202);">
   
     <!--Titlo de la seccion de la pagina-->
-    <h1 id="tituloDeLaPagina" hidden>PerfilTienda</h1>
+    <h1 id="tituloDeLaPagina" hidden>PerfilTienda Prueba hooks</h1>
     <!-- main header -->
     <header id="header_main">
           
