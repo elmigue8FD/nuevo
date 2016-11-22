@@ -50,7 +50,7 @@
                 <div class="uk-grid">
                   <div class="uk-width-1-1">
                     <ul class="uk-tab" data-uk-tab="{connect:'#tabs_1_content'}" id="tabs_1">
-                      <li class="uk-active"><a href="#"><font size="3"> Datos </font></a></li>
+                      <li class="uk-active"><a href="#"><font size="3"> Datos De tienda </font></a></li>
                       <li class="named_tab"><a href="#"><font size="3"> Servicios </font></a></li>
                       <!--<li class="named_tab"><a href="#"><font size="3"> Paquete </font></a></li>-->
                     </ul>
